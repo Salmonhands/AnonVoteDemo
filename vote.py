@@ -10,7 +10,7 @@
 #   possible update text to better communicate what is going on / how anonymity is preserved
 
 # Eric Lovelace - 2013
-# Implementing idea presented by Dr. Xou at IUPUI 
+# Implementing idea presented by Dr. Zou at IUPUI 
 # (though he is not associated with me programming this so my mistakes should not be taken as an indication of any flaw on his part)
 
 import random
